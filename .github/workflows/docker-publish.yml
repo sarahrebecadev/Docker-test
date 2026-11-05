@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: docker-test
+  IMAGE_NAME: sarahrebecadev/docker-test
 
 jobs:
   build-and-push:
